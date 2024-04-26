@@ -1,3 +1,4 @@
+#create venv in VSCode with requirements.txt
 #start server in LMStudio (port 1234)
 
 from autogen import AssistantAgent, GroupChatManager, UserProxyAgent
